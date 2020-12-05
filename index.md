@@ -4,9 +4,9 @@
 
 Co-Founder of [Infradigital](https://infradigital.io/career), a Bank of Indonesia registered B2B Fintech platform and payments processor for educational institutions in Indonesia. We are based in Beji and have a barrel of lele - [come join us](https://infradigital.io/career)!
 
-Prior to this, Country Manager and sVP Product & Marketing at Fusion. Responsible for designing, launching & growing large scale payments systems in SEA as well as managing compliance and strategic partnerships in Indonesia. Wallets, Auth, Card Processing, Electronic Distribution, Mobile Banking - the whole shebang.
+Before this, Country Manager and sVP Product & Marketing at Fusion. Responsible for designing, launching & growing large scale payments systems in SEA as well as managing compliance and strategic partnerships in Indonesia. Wallets, Auth, Card Processing, Electronic Distribution, Mobile Banking - the whole shebang. And before this again, vagabond, layabout, best quake player and 2nd best timesplitters player in Drum, Ireland. 
 
-My interests include growth - designing a solid analytics foundation to guide product & marketing activity - and security, specifically optimising the UX-Security tradeoff in payments. And playstation & motorbikes in real life.
+Interests include growth and security, specifically optimising the UX-Security tradeoff in payments. And playstation & motorbikes in real life.
 
 ## Resources for startup founders:
 
