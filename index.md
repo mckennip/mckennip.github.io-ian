@@ -2,7 +2,7 @@
 
 ### Welcome to Ian's homepage. 
 
-Co-Founder of InfraDigital, a Bank of Indonesia registered B2B Fintech platform and payments processor for educational institutions in Indonesia.
+Co-Founder of [Infradigital](https://infradigital.io/career), a Bank of Indonesia registered B2B Fintech platform and payments processor for educational institutions in Indonesia. We are based in Beji and have a barrel of lele - [come join us](https://infradigital.io/career)!
 
 Prior to this, Country Manager and sVP Product & Marketing at Fusion. Responsible for designing, launching & growing large scale payments systems in SEA as well as managing compliance and strategic partnerships in Indonesia. Wallets, Auth, Card Processing, Electronic Distribution, Mobile Banking - the whole shebang.
 
@@ -28,20 +28,27 @@ My interests include growth - designing a solid analytics foundation to guide pr
 - The best products have too few features initially, not too many
 
 
-## Youtube Channels
+## Good Youtube Channels
 
 - Real Life: [Soft White Underbelly](https://www.youtube.com/channel/UCCvcd0FYi58LwyTQP9LITpA)
-- Futurism: [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g) 
+- Futurism/Sci-Fi: [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g) 
 - Movies: [Redlettermedia](https://www.youtube.com/user/RedLetterMedia) 
 - Physics/Maths: [Sabine](https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw), [Stand-up Maths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A) 
 - Gaming: [dunky](https://www.youtube.com/user/videogamedunkey), [jackfrags](https://www.youtube.com/user/jackfrags)
 - Health/Fitness: [the doc](https://www.youtube.com/channel/UCLqH-U2TXzj1h7lyYQZLNQQ)
 - Motorbikes: [44 Teeth](https://www.youtube.com/channel/UCS2b27uRzxSQX6MvjdmHGIg) 
 - Documentaries: [DW Documentaries](https://www.youtube.com/channel/UCW39zufHfsuGgpLviKh297Q) 
-- Lathes: [Ave](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA )
+- Lathes: [Ave](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA)
 
 ## Links
 
+Places to go:
+- [Hacker News](https://news.ycombinator.com/)
+
+People to see:
+- [Anak_IDN & blogs](https://infradigital.io/anakidn)
+
+Things to do:
 - [infradigital.io](https://www.infradigital.io)
 - [whatthefaq.io](https://www.whatthefaq.io) (Sold a few years back)
 - [bangarif.com](https://bangarif.com) (Currently sleeping..)
